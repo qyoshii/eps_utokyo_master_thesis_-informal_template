@@ -1,1 +1,1 @@
-# eps_utokyo_master_thesis_-informal_template
+# eps_utokyo_master_thesis_informal_template
